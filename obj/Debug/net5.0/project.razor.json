@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\PetShopApp.csproj",
+  "FilePath": "c:\\PetShopApp\\PetShopApp\\PetShopApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,43 +15619,68 @@
   "RootNamespace": "PetShopApp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\HelloWorld\\Index.cshtml",
-      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Proprietarios\\Edit.cshtml",
+      "TargetPath": "Views\\Proprietarios\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Laboratorio\\PetShopApp\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Proprietarios\\Create.cshtml",
+      "TargetPath": "Views\\Proprietarios\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Proprietarios\\Delete.cshtml",
+      "TargetPath": "Views\\Proprietarios\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Proprietarios\\Details.cshtml",
+      "TargetPath": "Views\\Proprietarios\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\PetShopApp\\PetShopApp\\Views\\Proprietarios\\Index.cshtml",
+      "TargetPath": "Views\\Proprietarios\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

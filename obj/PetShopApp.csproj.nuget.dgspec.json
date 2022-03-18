@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laboratorio\\PetShopApp\\PetShopApp.csproj": {}
+    "C:\\PetShopApp\\PetShopApp\\PetShopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laboratorio\\PetShopApp\\PetShopApp.csproj": {
+    "C:\\PetShopApp\\PetShopApp\\PetShopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laboratorio\\PetShopApp\\PetShopApp.csproj",
+        "projectUniqueName": "C:\\PetShopApp\\PetShopApp\\PetShopApp.csproj",
         "projectName": "PetShopApp",
-        "projectPath": "C:\\Users\\Laboratorio\\PetShopApp\\PetShopApp.csproj",
+        "projectPath": "C:\\PetShopApp\\PetShopApp\\PetShopApp.csproj",
         "packagesPath": "C:\\Users\\Laboratorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laboratorio\\PetShopApp\\obj\\",
+        "outputPath": "C:\\PetShopApp\\PetShopApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,26 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
